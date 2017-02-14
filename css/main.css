@@ -1,0 +1,43 @@
+header {
+  /* background-color: #ffd700; */
+  background-image: url('../images/space.png');
+  margin-bottom: 40px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+  color: white;
+}
+
+header p {
+  margin-top: 0.5em;
+  color: white;
+}
+
+.card {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+.info {
+  padding: 20px;
+}
+
+.info h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.info p {
+  margin: 0.5em 0;
+}
